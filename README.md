@@ -2,7 +2,7 @@
 
 Python09 is a py library of 9 scripts from examples of Variables, Slicers, Numbers, Datastructures, Loops among other functions
 
-## Datastructures
+# Datastructures
 Cinema.py: 
 Ask users which movie to watch and checks in inventory the tickets availability, it also validates users age 
 
