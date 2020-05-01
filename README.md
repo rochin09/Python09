@@ -1,6 +1,6 @@
 # Python09
 
-Python09 is a py library of 9 scripts from examples of Variables, Slicers, Numbers, Datastructures, Loops among other functions
+Python09 is a py library of 9 scripts from examples of Variables, Slicers, Numbers, Datastructures, Loops among other main functions
 
 ## Datastructures
 Cinema.py: 
